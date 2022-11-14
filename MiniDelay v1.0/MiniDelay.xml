@@ -1,0 +1,1792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/projects/synth/MiniDelay/MiniDelay v1.0/MiniDelay/MiniDelay.kicad_sch</source>
+    <date>Tuesday, 25 October, 2022 07:14:22 PM</date>
+    <tool>Eeschema 6.0.7+dfsg-1~bpo11+1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>MiniDelay</title>
+        <company>benjiaomodular</company>
+        <rev>v1.0</rev>
+        <date/>
+        <source>MiniDelay.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="AudioIn1">
+      <value>AudioJack2_SwitchT</value>
+      <footprint>benjiaomodular:AudioJack_3.5mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Tayda Electronics</field>
+        <field name="Manufacturers Part Number">PJ-3001F</field>
+        <field name="Mfg #">PJ-3001F</field>
+        <field name="Part Description">PJ-3001F 3.5mm Mono Phone Jack</field>
+        <field name="Type">Thru-hole</field>
+      </fields>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
+      <property name="Type" value="Thru-hole"/>
+      <property name="Manufacturers Name" value="Tayda Electronics"/>
+      <property name="Manufacturers Part Number" value="PJ-3001F"/>
+      <property name="Mfg #" value="PJ-3001F"/>
+      <property name="Part Description" value="PJ-3001F 3.5mm Mono Phone Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062bd0c0a</tstamps>
+    </comp>
+    <comp ref="AudioOut1">
+      <value>AudioJack2_SwitchT</value>
+      <footprint>benjiaomodular:AudioJack_3.5mm</footprint>
+      <fields>
+        <field name="Manufacturers Name">Tayda Electronics</field>
+        <field name="Manufacturers Part Number">PJ-3001F</field>
+        <field name="Mfg #">PJ-3001F</field>
+        <field name="Part Description">PJ-3001F 3.5mm Mono Phone Jack</field>
+        <field name="Type">Thru-hole</field>
+      </fields>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
+      <property name="Type" value="Thru-hole"/>
+      <property name="Manufacturers Name" value="Tayda Electronics"/>
+      <property name="Manufacturers Part Number" value="PJ-3001F"/>
+      <property name="Mfg #" value="PJ-3001F"/>
+      <property name="Part Description" value="PJ-3001F 3.5mm Mono Phone Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062bd13db</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C49678</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0805KRX7R9BB104</field>
+        <field name="Mfg #">CC0805KRX7R9BB104</field>
+        <field name="Package">0805</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0805 10% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="MiniDelay-rescue" part="CP1-Device" description=""/>
+      <property name="LCSC Part #" value="C49678"/>
+      <property name="Mfg #" value="CC0805KRX7R9BB104"/>
+      <property name="Manufacturers Part Number" value="CC0805KRX7R9BB104"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0805"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0805 10% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c5c59e</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C49678</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0805KRX7R9BB104</field>
+        <field name="Mfg #">CC0805KRX7R9BB104</field>
+        <field name="Package">0805</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0805 10% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="MiniDelay-rescue" part="CP1-Device" description=""/>
+      <property name="LCSC Part #" value="C49678"/>
+      <property name="Mfg #" value="CC0805KRX7R9BB104"/>
+      <property name="Manufacturers Part Number" value="CC0805KRX7R9BB104"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0805"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0805 10% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c5d40e</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C91183</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRX7R9BB104</field>
+        <field name="Mfg #">CC0603JRX7R9BB104</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0603 5% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mouser #" value=""/>
+      <property name="Mfg #" value="CC0603JRX7R9BB104"/>
+      <property name="LCSC Part #" value="C91183"/>
+      <property name="Manufacturers Part Number" value="CC0603JRX7R9BB104"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0603 5% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c74060</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C91183</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRX7R9BB104</field>
+        <field name="Mfg #">CC0603JRX7R9BB104</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0603 5% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mouser #" value=""/>
+      <property name="Mfg #" value="CC0603JRX7R9BB104"/>
+      <property name="LCSC Part #" value="C91183"/>
+      <property name="Manufacturers Part Number" value="CC0603JRX7R9BB104"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0603 5% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c7463e</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>220nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C97857</field>
+        <field name="Manufacturers Name">Murata Electronics</field>
+        <field name="Manufacturers Part Number">GCM188R71H224KA64D</field>
+        <field name="Mfg #">GCM188R71H224KA64D</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT .22UF 50V 10% 0603</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part #" value="C97857"/>
+      <property name="Mfg #" value="GCM188R71H224KA64D"/>
+      <property name="Manufacturers Part Number" value="GCM188R71H224KA64D"/>
+      <property name="Manufacturers Name" value="Murata Electronics"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT .22UF 50V 10% 0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062bd7b55</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>47pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C105622</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRNPO9BN470</field>
+        <field name="Mfg #">CC0603JRNPO9BN470</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 47 pF C0G 0603 5% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part #" value="C105622"/>
+      <property name="Mfg #" value="CC0603JRNPO9BN470"/>
+      <property name="Manufacturers Part Number" value="CC0603JRNPO9BN470"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 47 pF C0G 0603 5% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062caff60</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C105174</field>
+        <field name="Manufacturers Name">Taiyo Yuden</field>
+        <field name="Manufacturers Part Number">UMK107AB7105KA-T</field>
+        <field name="Mfg #">UMK107AB7105KA-T</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 50VDC 1uF 10% X7R</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="MiniDelay-rescue" part="CP1-Device" description=""/>
+      <property name="Mfg #" value="UMK107AB7105KA-T"/>
+      <property name="LCSC Part #" value="C105174"/>
+      <property name="Manufacturers Part Number" value="UMK107AB7105KA-T"/>
+      <property name="Manufacturers Name" value="Taiyo Yuden"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 50VDC 1uF 10% X7R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062f55d1e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C91183</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRX7R9BB104</field>
+        <field name="Mfg #">CC0603JRX7R9BB104</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0603 5% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mouser #" value=""/>
+      <property name="Mfg #" value="CC0603JRX7R9BB104"/>
+      <property name="LCSC Part #" value="C91183"/>
+      <property name="Manufacturers Part Number" value="CC0603JRX7R9BB104"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0603 5% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062ff1c19</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C91183</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRX7R9BB104</field>
+        <field name="Mfg #">CC0603JRX7R9BB104</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0603 5% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mouser #" value=""/>
+      <property name="Mfg #" value="CC0603JRX7R9BB104"/>
+      <property name="LCSC Part #" value="C91183"/>
+      <property name="Manufacturers Part Number" value="CC0603JRX7R9BB104"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0603 5% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062ff1192</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>2.2nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C107043</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRNPO9BN222</field>
+        <field name="Mfg #">CC0603JRNPO9BN222</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 2200pF C0G 0603 5% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg #" value="CC0603JRNPO9BN222"/>
+      <property name="LCSC Part #" value="C107043"/>
+      <property name="Manufacturers Part Number" value="CC0603JRNPO9BN222"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 2200pF C0G 0603 5% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c778c7</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C91183</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRX7R9BB104</field>
+        <field name="Mfg #">CC0603JRX7R9BB104</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0603 5% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg #" value="CC0603JRX7R9BB104"/>
+      <property name="LCSC Part #" value="C91183"/>
+      <property name="Manufacturers Part Number" value="CC0603JRX7R9BB104"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0603 5% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062da8d4b</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>2.2nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C107043</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRNPO9BN222</field>
+        <field name="Mfg #">CC0603JRNPO9BN222</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 2200pF C0G 0603 5% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg #" value="CC0603JRNPO9BN222"/>
+      <property name="LCSC Part #" value="C107043"/>
+      <property name="Manufacturers Part Number" value="CC0603JRNPO9BN222"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 2200pF C0G 0603 5% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c2df42</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C91183</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRX7R9BB104</field>
+        <field name="Mfg #">CC0603JRX7R9BB104</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0603 5% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg #" value="CC0603JRX7R9BB104"/>
+      <property name="LCSC Part #" value="C91183"/>
+      <property name="Manufacturers Part Number" value="CC0603JRX7R9BB104"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0603 5% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062da9ac0</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>330nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C107070</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603KRX7R8BB334</field>
+        <field name="Mfg #">CC0603KRX7R8BB334</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 25V 0.33uF X7R 0603 10% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg #" value="CC0603KRX7R8BB334"/>
+      <property name="LCSC Part #" value="C107070"/>
+      <property name="Manufacturers Part Number" value="CC0603KRX7R8BB334"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 25V 0.33uF X7R 0603 10% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c4f812</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>2.2nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C107043</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRNPO9BN222</field>
+        <field name="Mfg #">CC0603JRNPO9BN222</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 2200pF C0G 0603 5% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg #" value="CC0603JRNPO9BN222"/>
+      <property name="LCSC Part #" value="C107043"/>
+      <property name="Manufacturers Part Number" value="CC0603JRNPO9BN222"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 2200pF C0G 0603 5% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062ccdb3e</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>15nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C2210963</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">AC0603KRX7R0BB153</field>
+        <field name="Mfg #">AC0603KRX7R0BB153</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 100 V 0.015 uF X7R 0603 10% AEC-Q200 </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg #" value="AC0603KRX7R0BB153"/>
+      <property name="LCSC Part #" value="C2210963"/>
+      <property name="Manufacturers Part Number" value="AC0603KRX7R0BB153"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Package" value="0603"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 100 V 0.015 uF X7R 0603 10% AEC-Q200 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062e802a2</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C91183</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRX7R9BB104</field>
+        <field name="Mfg #">CC0603JRX7R9BB104</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0603 5% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mouser #" value=""/>
+      <property name="Mfg #" value="CC0603JRX7R9BB104"/>
+      <property name="LCSC Part #" value="C91183"/>
+      <property name="Manufacturers Part Number" value="CC0603JRX7R9BB104"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 0.1uF X7R 0603 5% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c50d4f</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C105174</field>
+        <field name="Manufacturers Name">Taiyo Yuden</field>
+        <field name="Manufacturers Part Number">UMK107AB7105KA-T</field>
+        <field name="Mfg #">UMK107AB7105KA-T</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 50VDC 1uF 10% X7R</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="MiniDelay-rescue" part="CP1-Device" description=""/>
+      <property name="Mfg #" value="UMK107AB7105KA-T"/>
+      <property name="LCSC Part #" value="C105174"/>
+      <property name="Manufacturers Part Number" value="UMK107AB7105KA-T"/>
+      <property name="Manufacturers Name" value="Taiyo Yuden"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 50VDC 1uF 10% X7R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062cb4ed8</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>2.2nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C107043</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRNPO9BN222</field>
+        <field name="Mfg #">CC0603JRNPO9BN222</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 2200pF C0G 0603 5% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg #" value="CC0603JRNPO9BN222"/>
+      <property name="LCSC Part #" value="C107043"/>
+      <property name="Manufacturers Part Number" value="CC0603JRNPO9BN222"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 2200pF C0G 0603 5% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062d2a948</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>4.7nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C115060</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRX7R9BB472</field>
+        <field name="Mfg #">CC0603JRX7R9BB472</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 4700pF X7R 0603 5% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg #" value="CC0603JRX7R9BB472"/>
+      <property name="LCSC Part #" value="C115060"/>
+      <property name="Manufacturers Part Number" value="CC0603JRX7R9BB472"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Package" value="0603"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 4700pF X7R 0603 5% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062d6b6f1</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C115056</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603JRX7R9BB103</field>
+        <field name="Mfg #">CC0603JRX7R9BB103</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.01uF X7R 0603 5%</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg #" value="CC0603JRX7R9BB103"/>
+      <property name="LCSC Part #" value="C115056"/>
+      <property name="Manufacturers Part Number" value="CC0603JRX7R9BB103"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.01uF X7R 0603 5%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062f33b20</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>68pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C519457</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">CC0603GRNPO9BN680</field>
+        <field name="Mfg #">CC0603GRNPO9BN680</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 68 pF C0G 0603 2%</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg #" value="CC0603GRNPO9BN680"/>
+      <property name="LCSC Part #" value="C519457"/>
+      <property name="Manufacturers Part Number" value="CC0603GRNPO9BN680"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Package" value="0603"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 50 V 68 pF C0G 0603 2%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006312bfd4</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>3mm_LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <fields>
+        <field name="LCSC Part #">C2856645</field>
+        <field name="Manufacturers Name">EKINGLUX</field>
+        <field name="Manufacturers Part Number">EL304RD</field>
+        <field name="Mfg #">EL304RD</field>
+        <field name="Part Description">3.0mm Round Through Hole LED</field>
+        <field name="Type">Thru-hole</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC Part #" value="C2856645"/>
+      <property name="Manufacturers Name" value="EKINGLUX"/>
+      <property name="Manufacturers Part Number" value="EL304RD"/>
+      <property name="Mfg #" value="EL304RD"/>
+      <property name="Type" value="Thru-hole"/>
+      <property name="Part Description" value="3.0mm Round Through Hole LED"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c8d1e4</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>IDC_2x05</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC Part #">C706914</field>
+        <field name="Manufacturers Name">XKB Connectivity </field>
+        <field name="Manufacturers Part Number">X9555WV-2X05-6TV01</field>
+        <field name="Mfg #">X9555WV-2X05-6TV01</field>
+        <field name="Package">Straight,P=2.54mm</field>
+        <field name="Part Description">IDC Connector 2x05 2.54mm Pitch Straight</field>
+        <field name="Type">Thru-hole</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x10_Male" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Type" value="Thru-hole"/>
+      <property name="LCSC Part #" value="C706914"/>
+      <property name="Manufacturers Name" value="XKB Connectivity "/>
+      <property name="Manufacturers Part Number" value="X9555WV-2X05-6TV01"/>
+      <property name="Mfg #" value="X9555WV-2X05-6TV01"/>
+      <property name="Package" value="Straight,P=2.54mm"/>
+      <property name="Part Description" value="IDC Connector 2x05 2.54mm Pitch Straight"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46398d26-1d8f-43d7-8ceb-c89780fe8823</tstamps>
+    </comp>
+    <comp ref="LEVEL1">
+      <value>B10k</value>
+      <footprint>benjiaomodular:Potentiometer_RV09</footprint>
+      <fields>
+        <field name="Manufacturers Name">Alpha (Taiwan)</field>
+        <field name="Manufacturers Part Number">RD901F-40-15R1-B10K</field>
+        <field name="Mfg #">RD901F-40-15R1-B10K</field>
+        <field name="Package">RD901F</field>
+        <field name="Part Description">10K OHM Linear Taper Potentiometer Round Shaft PCB 9mm</field>
+        <field name="Type">Thru-hole</field>
+      </fields>
+      <libsource lib="MiniDelay-rescue" part="R_POT-Device" description=""/>
+      <property name="Type" value="Thru-hole"/>
+      <property name="Manufacturers Part Number" value="RD901F-40-15R1-B10K"/>
+      <property name="Mfg #" value="RD901F-40-15R1-B10K"/>
+      <property name="Manufacturers Name" value="Alpha (Taiwan)"/>
+      <property name="Part Description" value="10K OHM Linear Taper Potentiometer Round Shaft PCB 9mm"/>
+      <property name="Package" value="RD901F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006322188b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C105578</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-071ML</field>
+        <field name="Mfg #">RC0603FR-071ML</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 1 MOhms 100mW 0603 1% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C105578"/>
+      <property name="Mfg #" value="RC0603FR-071ML"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-071ML"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 1 MOhms 100mW 0603 1% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062bd6626</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C116677</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">AC0603FR-0710KL</field>
+        <field name="Mfg #">AC0603FR-0710KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C116677"/>
+      <property name="Mfg #" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Part Number" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Package" value="0603"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c87b0b</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14675</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-07100KL</field>
+        <field name="Mfg #">RC0603FR-07100KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 100 kOhms 100mW 0603 1%</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C14675"/>
+      <property name="Mfg #" value="RC0603FR-07100KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-07100KL"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 100 kOhms 100mW 0603 1%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062ca9feb</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C116677</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">AC0603FR-0710KL</field>
+        <field name="Mfg #">AC0603FR-0710KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C116677"/>
+      <property name="Mfg #" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Part Number" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Package" value="0603"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062cab316</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>2.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C114612</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-072K7L</field>
+        <field name="Mfg #">RC0603FR-072K7L</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 2.7 kOhms 100mW 0603 1% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C114612"/>
+      <property name="Mfg #" value="RC0603FR-072K7L"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-072K7L"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 2.7 kOhms 100mW 0603 1% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062fdb9d6</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14675</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-07100KL</field>
+        <field name="Mfg #">RC0603FR-07100KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 100 kOhms 100mW 0603 1%</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C14675"/>
+      <property name="Mfg #" value="RC0603FR-07100KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-07100KL"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 100 kOhms 100mW 0603 1%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c7bd33</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C105575</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-0720KL</field>
+        <field name="Mfg #">RC0603FR-0720KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 20 kOhms 100mW 0603 1%</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C105575"/>
+      <property name="Mfg #" value="RC0603FR-0720KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-0720KL"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 20 kOhms 100mW 0603 1%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c778bb</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C116677</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">AC0603FR-0710KL</field>
+        <field name="Mfg #">AC0603FR-0710KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C116677"/>
+      <property name="Mfg #" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Part Number" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Package" value="0603"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c778c1</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22548</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-071KL</field>
+        <field name="Mfg #">RC0603FR-071KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 1 kOhms 100mW 0603 1% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C22548"/>
+      <property name="Mfg #" value="RC0603FR-071KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-071KL"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 1 kOhms 100mW 0603 1% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c1621d</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C116677</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">AC0603FR-0710KL</field>
+        <field name="Mfg #">AC0603FR-0710KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C116677"/>
+      <property name="Mfg #" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Part Number" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Package" value="0603"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062e35a10</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C116677</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">AC0603FR-0710KL</field>
+        <field name="Mfg #">AC0603FR-0710KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C116677"/>
+      <property name="Mfg #" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Part Number" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Package" value="0603"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c1e58e</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C116677</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">AC0603FR-0710KL</field>
+        <field name="Mfg #">AC0603FR-0710KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C116677"/>
+      <property name="Mfg #" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Part Number" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Package" value="0603"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062d30633</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C116677</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">AC0603FR-0710KL</field>
+        <field name="Mfg #">AC0603FR-0710KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C116677"/>
+      <property name="Mfg #" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Part Number" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Package" value="0603"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062d310a2</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C116677</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">AC0603FR-0710KL</field>
+        <field name="Mfg #">AC0603FR-0710KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C116677"/>
+      <property name="Mfg #" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Part Number" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Package" value="0603"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062cbb84f</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C116677</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">AC0603FR-0710KL</field>
+        <field name="Mfg #">AC0603FR-0710KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C116677"/>
+      <property name="Mfg #" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Part Number" value="AC0603FR-0710KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Package" value="0603"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 10 kOhms 100mW 0603 1% AEC-Q200 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062d9448a</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C105578</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-071ML</field>
+        <field name="Mfg #">RC0603FR-071ML</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 1 MOhms 100mW 0603 1% </field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C105578"/>
+      <property name="Mfg #" value="RC0603FR-071ML"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-071ML"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 1 MOhms 100mW 0603 1% "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062f47746</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14675</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-07100KL</field>
+        <field name="Mfg #">RC0603FR-07100KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 100 kOhms 100mW 0603 1%</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C14675"/>
+      <property name="Mfg #" value="RC0603FR-07100KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-07100KL"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 100 kOhms 100mW 0603 1%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000630e25da</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>68k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C114633</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-0768KL</field>
+        <field name="Mfg #">RC0603FR-0768KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 68 kOhms 100mW 0603 1%</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C114633"/>
+      <property name="Mfg #" value="RC0603FR-0768KL"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-0768KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 68 kOhms 100mW 0603 1%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000631228c6</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C105575</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-0720KL</field>
+        <field name="Mfg #">RC0603FR-0720KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 20 kOhms 100mW 0603 1%</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C105575"/>
+      <property name="Mfg #" value="RC0603FR-0720KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-0720KL"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 20 kOhms 100mW 0603 1%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062f5ad32</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14675</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-07100KL</field>
+        <field name="Mfg #">RC0603FR-07100KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 100 kOhms 100mW 0603 1%</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C14675"/>
+      <property name="Mfg #" value="RC0603FR-07100KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-07100KL"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 100 kOhms 100mW 0603 1%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062fb9862</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14675</field>
+        <field name="Manufacturers Name">YAGEO</field>
+        <field name="Manufacturers Part Number">RC0603FR-07100KL</field>
+        <field name="Mfg #">RC0603FR-07100KL</field>
+        <field name="Package">0603</field>
+        <field name="Part Description">Thick Film Resistors - SMD 100 kOhms 100mW 0603 1%</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part #" value="C14675"/>
+      <property name="Mfg #" value="RC0603FR-07100KL"/>
+      <property name="Manufacturers Name" value="YAGEO"/>
+      <property name="Manufacturers Part Number" value="RC0603FR-07100KL"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="0603"/>
+      <property name="Part Description" value="Thick Film Resistors - SMD 100 kOhms 100mW 0603 1%"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000630e13ed</tstamps>
+    </comp>
+    <comp ref="REPEATS1">
+      <value>B10k</value>
+      <footprint>benjiaomodular:Potentiometer_RV09</footprint>
+      <fields>
+        <field name="Manufacturers Name">Alpha (Taiwan)</field>
+        <field name="Manufacturers Part Number">RD901F-40-15R1-B10K</field>
+        <field name="Mfg #">RD901F-40-15R1-B10K</field>
+        <field name="Package">RD901F</field>
+        <field name="Part Description">10K OHM Linear Taper Potentiometer Round Shaft PCB 9mm</field>
+        <field name="Type">Thru-hole</field>
+      </fields>
+      <libsource lib="MiniDelay-rescue" part="R_POT-Device" description=""/>
+      <property name="Type" value="Thru-hole"/>
+      <property name="Manufacturers Part Number" value="RD901F-40-15R1-B10K"/>
+      <property name="Mfg #" value="RD901F-40-15R1-B10K"/>
+      <property name="Manufacturers Name" value="Alpha (Taiwan)"/>
+      <property name="Part Description" value="10K OHM Linear Taper Potentiometer Round Shaft PCB 9mm"/>
+      <property name="Package" value="RD901F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063079075</tstamps>
+    </comp>
+    <comp ref="TIME1">
+      <value>B100k</value>
+      <footprint>benjiaomodular:Potentiometer_RV09</footprint>
+      <fields>
+        <field name="Manufacturers Name">Alpha (Taiwan)</field>
+        <field name="Manufacturers Part Number">RD901F-40-15R1-B100K</field>
+        <field name="Mfg #">RD901F-40-15R1-B100K</field>
+        <field name="Package">RD901F</field>
+        <field name="Part Description">100K OHM Linear Taper Potentiometer Round Shaft PCB 9mm</field>
+        <field name="Type">Thru-hole</field>
+      </fields>
+      <libsource lib="MiniDelay-rescue" part="R_POT-Device" description=""/>
+      <property name="Type" value="Thru-hole"/>
+      <property name="Manufacturers Part Number" value="RD901F-40-15R1-B100K"/>
+      <property name="Mfg #" value="RD901F-40-15R1-B100K"/>
+      <property name="Manufacturers Name" value="Alpha (Taiwan)"/>
+      <property name="Part Description" value="100K OHM Linear Taper Potentiometer Round Shaft PCB 9mm"/>
+      <property name="Package" value="RD901F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063058882</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TL074</value>
+      <footprint>Package_SO:SOIC-14_3.9x8.7mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C107644</field>
+        <field name="Manufacturers Name">STMicroelectronics</field>
+        <field name="Manufacturers Part Number">TL074IDT</field>
+        <field name="Mfg #">TL074IDT</field>
+        <field name="Package">SOIC-14_150mil</field>
+        <field name="Part Description">Operational Amplifiers - Op Amps Quad Low Noise JFET</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="TL074" description="Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"/>
+      <property name="LCSC Part #" value="C107644"/>
+      <property name="Mfg #" value="TL074IDT"/>
+      <property name="Manufacturers Part Number" value="TL074IDT"/>
+      <property name="Manufacturers Name" value="STMicroelectronics"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Package" value="SOIC-14_150mil"/>
+      <property name="Part Description" value="Operational Amplifiers - Op Amps Quad Low Noise JFET"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062f5d266 00000000-0000-0000-0000-0000630d83c9 00000000-0000-0000-0000-000062dd99d5 00000000-0000-0000-0000-000062c574ff 00000000-0000-0000-0000-000062c48471</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>PT2399</value>
+      <footprint>Package_SO:SOP-16_4.55x10.3mm_P1.27mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1808031633_PTC-Princeton-Tech-PT2399-SN_C126407.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C126407</field>
+        <field name="Manufacturers Name">PTC(Princeton Tech)</field>
+        <field name="Manufacturers Part Number">PT2399-SN</field>
+        <field name="Mfg #">PT2399-SN </field>
+        <field name="Package">SOP-16_150mil</field>
+        <field name="Part Description">SOP-16_150mil Audio Interface ICs ROHS</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Audio" part="PT2399" description="Echo Processor IC"/>
+      <property name="LCSC Part #" value="C126407"/>
+      <property name="Mfg #" value="PT2399-SN "/>
+      <property name="Manufacturers Part Number" value="PT2399-SN"/>
+      <property name="Manufacturers Name" value="PTC(Princeton Tech)"/>
+      <property name="Package" value="SOP-16_150mil"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="SOP-16_150mil Audio Interface ICs ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062c2a49a</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>L7805</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C310413</field>
+        <field name="Manufacturers Name">STMicroelectronics</field>
+        <field name="Manufacturers Part Number">L7805CDT-TR </field>
+        <field name="Mfg #">L7805CDT-TR </field>
+        <field name="Package">TO-252-3</field>
+        <field name="Part Description">62dB@(120Hz) 1.5A 2V@(1A) Fixed 5V~5V Positive 1 35V TO-252-3 Linear Voltage Regulators (LDO) ROHS</field>
+        <field name="Type">Surface mount</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="L7805" description="Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"/>
+      <property name="LCSC Part #" value="C310413"/>
+      <property name="Manufacturers Name" value="STMicroelectronics"/>
+      <property name="Mfg #" value="L7805CDT-TR "/>
+      <property name="Manufacturers Part Number" value="L7805CDT-TR "/>
+      <property name="Package" value="TO-252-3"/>
+      <property name="Type" value="Surface mount"/>
+      <property name="Part Description" value="62dB@(120Hz) 1.5A 2V@(1A) Fixed 5V~5V Positive 1 35V TO-252-3 Linear Voltage Regulators (LDO) ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniDelay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bba7f519-cfde-4a7c-9db3-f34f43958955</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Operational" part="TL074">
+      <description>Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tl071.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SSOP*5.3x6.2mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL074</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tl071.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Audio" part="PT2399">
+      <description>Echo Processor IC</description>
+      <docs>http://sound.westhost.com/pt2399.pdf</docs>
+      <footprints>
+        <fp>DIP-16*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PT2399</field>
+        <field name="Datasheet">http://sound.westhost.com/pt2399.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="REF" type="passive"/>
+        <pin num="3" name="AGND" type="power_in"/>
+        <pin num="4" name="DGND" type="power_in"/>
+        <pin num="5" name="CLK_O" type="passive"/>
+        <pin num="6" name="VCO" type="passive"/>
+        <pin num="7" name="CC1" type="passive"/>
+        <pin num="8" name="CC0" type="passive"/>
+        <pin num="9" name="OP1-OUT" type="output"/>
+        <pin num="10" name="OP1-IN" type="input"/>
+        <pin num="11" name="OP2-IN" type="input"/>
+        <pin num="12" name="OP2-OUT" type="output"/>
+        <pin num="13" name="LPF2-IN" type="input"/>
+        <pin num="14" name="LPF2-OUT" type="output"/>
+        <pin num="15" name="LPF1-OUT" type="output"/>
+        <pin num="16" name="LPF1-IN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="AudioJack2_SwitchT">
+      <description>Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack2_SwitchT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="S" name="" type="passive"/>
+        <pin num="T" name="" type="passive"/>
+        <pin num="TN" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x10_Male">
+      <description>Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MiniDelay-rescue" part="CP1-Device">
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MiniDelay-rescue" part="R_POT-Device">
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_POT-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L7805">
+      <description>Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+        <fp>TO?263*</fp>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L7805</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Operational">
+      <uri>/usr/share/kicad/symbols//Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Audio">
+      <uri>/usr/share/kicad/symbols//Audio.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="MiniDelay-rescue">
+      <uri>/projects/synth/MiniDelay/MiniDelay v1.0/MiniDelay/MiniDelay-rescue.lib</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/usr/share/kicad/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="+12V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="3" name="-12V">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="4" name="DRY_OUT">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="AudioIn1" pin="S" pintype="passive"/>
+      <node ref="AudioOut1" pin="S" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="LEVEL1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="REPEATS1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TIME1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="+" pintype="input"/>
+      <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="DGND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="6" name="Net-(AudioIn1-PadT)">
+      <node ref="AudioIn1" pin="T" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(AudioOut1-PadT)">
+      <node ref="AudioOut1" pin="T" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pintype="output"/>
+    </net>
+    <net code="9" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="REF" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="CC1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="CC0" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="LPF2-IN" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="LPF2-OUT" pintype="output"/>
+    </net>
+    <net code="15" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="OP2-IN" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="OP2-OUT" pintype="output"/>
+    </net>
+    <net code="17" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="OP1-OUT" pintype="output"/>
+    </net>
+    <net code="19" name="Net-(C13-Pad2)">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="OP1-IN" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(C15-Pad1)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="LPF1-OUT" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(C15-Pad2)">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="LPF1-IN" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(C16-Pad2)">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(C18-Pad1)">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(C18-Pad2)">
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U1" pin="14" pintype="output"/>
+    </net>
+    <net code="25" name="Net-(C19-Pad2)">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(C20-Pad1)">
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C21-Pad2)">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(C22-Pad1)">
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pintype="output"/>
+    </net>
+    <net code="29" name="Net-(C22-Pad2)">
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(LEVEL1-Pad3)">
+      <node ref="LEVEL1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="REPEATS1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="output"/>
+    </net>
+    <net code="32" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="VCO" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="TIME1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TIME1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(R19-Pad2)">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="35" name="REPEATS">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="REPEATS1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="36" name="WET_OUT">
+      <node ref="LEVEL1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="unconnected-(AudioIn1-PadTN)">
+      <node ref="AudioIn1" pin="TN" pintype="passive+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(AudioOut1-PadTN)">
+      <node ref="AudioOut1" pin="TN" pintype="passive+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U2-Pad5)">
+      <node ref="U2" pin="5" pinfunction="CLK_O" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

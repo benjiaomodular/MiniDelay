@@ -1,0 +1,53 @@
+### Module positions - created on Wednesday, 26 October, 2022 04:24:48 AM ###
+### Printed by Pcbnew version 6.0.7+dfsg-1~bpo11+1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                                           PosX       PosY       Rot  Side
+C1        22uF      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   -12.2000    37.1750  180.0000  bottom
+C2        22uF      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    -9.3000    17.7250   90.0000  bottom
+C3        100nF     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   -15.5750    59.9500    0.0000  bottom
+C4        100nF     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    -4.5000    59.4500    0.0000  bottom
+C5        220nF     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    -3.6250     5.3500  180.0000  bottom
+C6        47pF      C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    -2.8250    55.9250   90.0000  bottom
+C7        1uF       C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    -4.9000    82.3000  -90.0000  bottom
+C8        100nF     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   -11.5799    88.2002    0.0000  bottom
+C9        100nF     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   -11.5599    89.7402    0.0000  bottom
+C10       2.2nF     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   -11.4000    72.5500  180.0000  bottom
+C11       100nF     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   -17.4000    79.5500   90.0000  bottom
+C12       2.2nF     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    -4.5000    61.0500    0.0000  bottom
+C13       100nF     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   -17.4000    76.0600   90.0000  bottom
+C14       330nF     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    -8.5500    26.2000  180.0000  bottom
+C15       2.2nF     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    -4.9000    76.1500  -90.0000  bottom
+C16       15nF      C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   -18.9000    86.1500  -90.0000  bottom
+C17       100nF     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    -4.8500    26.2000    0.0000  bottom
+C18       1uF       C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    -5.3600    66.0500  -90.0000  bottom
+C19       2.2nF     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    -7.9000    70.0500   90.0000  bottom
+C20       4.7nF     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    -2.3000    66.0500  -90.0000  bottom
+C21       10nF      C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   -17.6300    63.5600  -90.0000  bottom
+C22       68pF      C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   -17.4300    55.9100   90.0000  bottom
+J1        IDC_2x05  IDC-Header_2x05_P2.54mm_Vertical              -13.9975    20.3200    0.0000  bottom
+R1        1M        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    -3.6250     3.8000  180.0000  bottom
+R2        10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    -5.7000    20.6750    0.0000  bottom
+R3        100k      R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    -3.6250     6.9000  180.0000  bottom
+R4        10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    -4.3550    55.9350  -90.0000  bottom
+R5        2.7k      R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -11.5800    86.6600  180.0000  bottom
+R6        100k      R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    -8.7750    49.0400  180.0000  bottom
+R7        20k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -10.9000    70.0500   90.0000  bottom
+R8        10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -12.4000    70.0500   90.0000  bottom
+R9        1k        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -18.9800    55.9100   90.0000  bottom
+R10       10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -17.3000    86.1500  -90.0000  bottom
+R11       10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    -4.5000    62.6500    0.0000  bottom
+R12       10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    -2.4500    75.2000    0.0000  bottom
+R13       10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    -2.4500    77.0800    0.0000  bottom
+R14       10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    -9.4000    70.0500  -90.0000  bottom
+R15       10k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    -3.8300    66.0500   90.0000  bottom
+R16       1M        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -19.1300    63.5500   90.0000  bottom
+R17       100k      R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -12.1500    49.0400    0.0000  bottom
+R18       68k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -12.1750    47.0500    0.0000  bottom
+R19       20k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -16.1100    63.5600  -90.0000  bottom
+R20       100k      R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -14.6000    63.5700   90.0000  bottom
+R21       100k      R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -15.9100    55.9100  -90.0000  bottom
+U1        TL074     SOIC-14_3.9x8.7mm_P1.27mm                      -9.9200    58.8000  180.0000  bottom
+U2        PT2399    SOP-16_4.55x10.3mm_P1.27mm                    -11.1100    78.8000  -90.0000  bottom
+U3        L7805     TO-252-2                                       -6.7000    32.6000   90.0000  bottom
+## End

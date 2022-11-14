@@ -1,0 +1,12 @@
+### Module positions - created on Wednesday, 26 October, 2022 04:24:48 AM ###
+### Printed by Pcbnew version 6.0.7+dfsg-1~bpo11+1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref      Val                 Package                  PosX       PosY       Rot  Side
+AudioIn1   AudioJack2_SwitchT  AudioJack_3.5mm        5.0000    12.9800    0.0000  top
+AudioOut1  AudioJack2_SwitchT  AudioJack_3.5mm       15.0000    12.9800    0.0000  top
+D1         3mm_LED             LED_D3.0mm             6.2000    17.6000  180.0000  top
+LEVEL1     B10k                Potentiometer_RV09     7.5000    44.6500   90.0000  top
+REPEATS1   B10k                Potentiometer_RV09     7.5000    64.6500   90.0000  top
+TIME1      B100k               Potentiometer_RV09     7.5000    84.6500   90.0000  top
+## End
